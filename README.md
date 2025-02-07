@@ -1,2 +1,1 @@
-blacklist_check
-$ python3 blacklist_check <IP Public?
+File python ini digunakan untuk tujuan testing bukan untuk disalahgunakan
